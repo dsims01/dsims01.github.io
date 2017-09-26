@@ -1,0 +1,20 @@
+<!doctype html>
+<link href="styletest.css" rel="stylesheet"/>
+<div class="header">
+	<p id="home"><a href="index.html">Home</a></p>
+	<p id="title">TEST</p>
+	<p id="subscribe">There will be no subscription</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

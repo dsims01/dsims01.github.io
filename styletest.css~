@@ -1,0 +1,26 @@
+/* styletest.css */
+
+.header {
+	display: flex;
+	background-color: #ADFF2F;
+	justify-content: center;
+	justify-content: space-between;
+}
+
+#home {
+	font-size: 20px;
+	align-self: flex-start;
+	flex: initial;
+}
+
+#title {
+	font-size: 100px;
+	display: flex;
+	justify-content: center;
+}
+
+#subscribe {
+	font-size: 20px;
+	align-self: flex-start;
+	flex: initial;
+}

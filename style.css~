@@ -1,0 +1,46 @@
+/* Style Sheet */
+
+h1 {
+	background-color: #87CEFA;
+	display: flex;
+        justify-content: center;
+	color: white;
+}
+
+.link {
+	font-family: helvetica;
+        justify-content: space-around;
+}
+
+p1 {
+	display: flex;
+	justify-content: flex-start;
+}
+
+p2 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+h3 {
+	display:flex;
+	background-color: #87CEFA;
+	justify-content: center;
+        color: white;
+}
+
+#pic {
+	display: flex;
+	justify-content: center;
+
+}
+
+ul {
+	color: black;
+	list-style-type: circle;
+}
+
+h6 {
+    	display: flex;
+        justify-content: flex-end;
+}

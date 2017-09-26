@@ -1,0 +1,13 @@
+<!doctype html>
+<head>
+<link href="style.css" rel="stylesheet"/>
+<title>Derek Sims</title>
+</head>
+<body>
+	<h1>Derek Porferio Sims</h1>
+	<p id="pic"><img src="me.jpg" alt="Derek on a mountain"/></p>
+	<p class="link"><a href="resume.html">A link to my resume</a></p>
+	<p class ="link"><a href="bio.html">A link to my short biography</a></p>
+</body>
+
+</html>
